@@ -1,4 +1,4 @@
-## Olá Eu sou o FabricioJorge0
+## Olá Eu sou o Fabricio Jorge
 
 
 - 🌱 Atualmente estou estudando Engenharia de Software
